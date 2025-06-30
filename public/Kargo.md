@@ -1,11 +1,11 @@
 ---
 title: プロモーションプラットフォーム「Kargo」を調査した
 tags:
-  - 'Kubernetes'
-  - 'Kargo'
+  - kubernetes
+  - Kargo
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-07-01T00:34:20+09:00'
+id: 43bf02762b59c150400a
 organization_url_name: null
 slide: false
 ignorePublish: false
